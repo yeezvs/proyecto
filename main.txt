@@ -1,1 +1,1 @@
-main
+main public class main lalala
