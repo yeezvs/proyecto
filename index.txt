@@ -1,0 +1,3 @@
+import {path} from 'path';
+console.log(join(__dirname, 'carpeta xd'));
+esto es una modificacion
